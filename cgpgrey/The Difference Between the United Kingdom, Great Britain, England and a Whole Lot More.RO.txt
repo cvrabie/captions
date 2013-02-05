@@ -1,6 +1,11 @@
 ## Romanian captions for http://www.youtube.com/watch?feature=player_embedded&v=rNu8XDBSn10
+##
 ## According to the script http://www.cgpgrey.com/blog/the-difference-between-the-united-kingdom-great-britain-england
-## 1 English text line was translated to exactly 1 Romanian text line, without shifting words from line to line, as to help with timing, but the lengths are no longer constant so it will probably need some adjusting when placed on video.
+##
+## 1 English text line was translated to exactly 1 Romanian text line, without 
+## shifting words from line to line (as much as possible), as to help with timing, 
+## but the lengths are no longer constant so it will probably need some adjusting 
+## when placed on video.
 
 Bine ați venit la Marea Britanie (și mult mai mult)
 explicat de mine C.G.P.Grey
@@ -127,3 +132,129 @@ din Regatul Unit?
 
 Ei bine, nu chiar, dar pentru a înțelege cum sunt conectate,
 trebuie să vorbim despre coroana.
+
+Nu coroana fizică care stă in spatele sticlei din Turnul 
+Londrei și câștigă pentru UK milioane de lire de la turiști,
+ci coroana ca o complicată entitate legala, cele mai bine descrisă
+ca o corporatie formată de un om.
+
+Cine a creat această corporație?
+
+Dumnezeu.
+
+Conform tradiției Britanice toată puterea vine de la Dumnezeu și
+monarhnul este încoronat într-o ceremonie Creștină.
+
+Însă Dumnezeu - nevrând sa fie deranjat cu 
+micro-management - își deleagă convenient puterea către
+o entitate numită coroană. Deși asta obișnuia să fie coroana
+din Turnul Londreo - a evoluat de-a lungul timpului intr-o
+corporașie legală care poate fi controlată doar the 
+monarhul conducător.
+
+Toate legile din Regatul Unit își derivă dreptul de a exista
+de la coroană care la rând își derivă puterea de la Dumnezeu.
+
+Este folositor sa-și amintești ca Regatul Unit este încă,
+teoretic, o teocrație cu monarhul conducător acționând 
+atât ca șeful statului cât și guvernatorul suprem al
+religiei oficiale: Anglicanismul.
+
+Acestea sunt ciudățenile care apar când avem de-aface cu 
+o monarhie veche the 1000 de ani.
+
+Înapoi la Canada și restul. Fostele colonii care au capătat
+intependența prin diplomație și care continuă să 
+reucunoască autoritatea coroanei sunt cunoscute ca și
+Comunitatea Națiunilor.
+
+Ele sunt, în ordine descrescătoare a populațieiȘ
+
+- Canada
+- Australia
+- Papua Noua Guinee
+- Noua Zeelandă
+- Jamaica
+- Insulele Solomon
+- Belize
+- Insulele Bahamas
+- Barbados
+- Saint Lucia
+- Sfântul Vicențiu și Grenadine
+- Grenada
+- Antigua și Barbuda
+- Sfântul Cristofor și Nevis
+- Tuvalu
+
+Toate sunt națiuni independente dar încă recunosc monarhia
+ca șeful statului chiar dacă în practica are foarte puțină putere
+în interiorul granițelor lor.
+
+Există înca trei alte entități care aparțin de coroană și
+anume Dependendințele Coroanei.
+
+Spre deosebire de Comunitatea Națiunilor, acestea nu sunt considerate
+state independente, dar le este acordată autonomie locală de către
+coroană și cetățenie Britanică de catre Regatul Unit - 
+deși UK își rezervă dreptul de a suprascrie legile
+autorităților locale.
+
+Dependințele Coroanei sunt:
+
+- Insula Man
+- Insula Jersey
+- Guernsey
+
+Acum am terminat?
+
+Aproape, dar nu chiar. Încă sunt câteva fire 
+libere, cum ar fi acest loc:
+
+Micul oraș Gibraltar pe coasta de sud a Spaniei
+faimoasă pentru stanci, maimuțe și pentru a cauza tensiuni
+diplomatice între Regatul Unit și Spania.
+
+Dar ce zici despre Insulele Falkland? Care au cauzat atat de multă
+tensiune dintre Regatul Unit și Argentina încât
+au pornit la război pentru ele.
+
+Aceste locuri aparțin în ultimul grup de Dependințe a Coroanei
+cunoscute ca: Teritoriile Britanice de peste mări. Dar numele anterior -
+Coloniile Coroanei - le trădează originea.
+
+Ele sunt ultimele vestigii ale Imperiului Britanic.
+
+Spre deosebire de Comunitatea Națiunilor, ele nu au devenit 
+națiuni independente și continuă să se bazeze pe Regatul 
+Unit pentru asistentă militară și (câteodată) economică.
+La fel ca și cu Dependințele Coroanei, oricine născut între granițele lor
+este cetățean Britanic.
+
+Coloniile Coroanei sunt, în rodine descrescătoare a populației:
+
+- Bermuda
+- Insulele Cayman
+- Insulele Turks și Caicos
+- Gibraltar
+- Insulele Virgine Britanice
+- Akrotiri și Dhekelia
+- Anguilla
+- Insula Sfânta Elena
+- Insulele Ascension
+- Tristan da Cunha
+- Montserrat
+- Teritoriul Britanic din Oceanul Indian
+- Georgia de Sud și Insulele Sandwich de Sud
+- Insulele Falkland
+- Zona Antarctică Britanică
+- Insulele Pitcairn
+
+Intr-o reviziune finală, Regatul Unit este o țară situată
+în insulele britanice care este parte a Coroanei și care este
+controlată de monarhie.
+
+De asemene, parte a coroanei și a insulelor britanice sunt și 
+dependințele coroanei. Națiunile independente a fostului imperiu
+care încă recunosc coroana sunt Comunitatea Națiunilor
+iar rămășitele ne-independente a fostului imperiu sunt 
+Teritoriile britanice de peste mări.
