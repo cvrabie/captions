@@ -1,75 +1,41 @@
 ## Romanian captions for http://www.youtube.com/watch?feature=player_embedded&v=rNu8XDBSn10
-##
 ## According to the script http://www.cgpgrey.com/blog/the-difference-between-the-united-kingdom-great-britain-england
-##
-## 1 English text line was translated to exactly 1 Romanian text line, without 
-## shifting words from line to line (as much as possible), as to help with timing, 
-## but the lengths are no longer constant so it will probably need some adjusting 
-## when placed on video.
 
-Bine ați venit la Regatul Unit (și mult mai mult)
-explicat de mine C.G.P.Grey
+Bine ați venit la Regatul Unit (și mult mai mult) explicat de mine C.G.P.Grey
 
-Regatul Unit, Anglia, Marea Britanie? Sunt aceste trei
-același loc? Locuri diferite? Britanicii râd în secret
-de cei care folosesc termenii greșit? Cine știe 
-răspunsurile la aceste întrebări. Eu știu și vă voi spune
-chiar acum.
+Regatul Unit, Anglia, Marea Britanie? Sunt aceste trei același loc? Locuri diferite? Britanicii râd în secret de cei care folosesc termenii greșit? Cine știe răspunsurile la aceste întrebări. Eu știu și vă voi spune chiar acum.
 
-Pentru cei dezorientați: aceasta este lumea, acesta este continentul European
-și acesta este locul pe care vrem să-l descâlcim.
+Pentru cei dezorientați: aceasta este lumea, acesta este continentul European și acesta este locul pe care vrem să-l descâlcim.
 
-Zona indicată cu mov este Regatul Unit. O parte din 
-confuzie este că Regatul Unit nu este o singură țară 
-ci o țară de țări.
+Zona indicată cu mov este Regatul Unit. O parte din confuzie este că Regatul Unit nu este o singură țară ci o țară de țări.
 
 Conține în interiorul ei patru națiuni egale și suverane.
 
-Prima dintre acestea este Anglia - indicată aici cu roșu. Anglia este
-adesea confundată cu întreg Regatul Unit pentru că 
-este cea mai mare si mai populată dintre națiuni și conține
-capitala efectivă, Londra.
+Prima dintre acestea este Anglia - indicată aici cu roșu. Anglia este adesea confundată cu întreg Regatul Unit pentru că este cea mai mare si mai populată dintre națiuni și conține capitala efectivă, Londra.
 
-În nord este Scoția, indicată cu albastru, iar la vest este
-Țara Galilor (Wales), indicată cu alb.
+În nord este Scoția, indicată cu albastru, iar la vest este Țara Galilor (Wales), indicată cu alb.
 
-Și, adeseori uitată chiar și de cei din Regatul Unit, este
-Irlanda de Nord indicată cu portocaliu.
+Și, adeseori uitată chiar și de cei din Regatul Unit, este Irlanda de Nord indicată cu portocaliu.
 
-Fiecare țară are un termen local pentru populație. Chiar dacă 
-poți să-i numești pe toți 'Britanici' nu este recomandat deoarece cele patru
-țări nu se plac de obicei.
+Fiecare țară are un termen local pentru populație. Chiar dacă poți să-i numești pe toți 'Britanici' nu este recomandat deoarece cele patru țări nu se plac de obicei.
 
-Irlandezii de Nord, Scoțienii și Galezii privesc Englezii ca
-deținători de sclavi coloniali - indiferent de faptul că toate trei au
-propriul parlament și sunt permise să voteze pentru legile 
-Englezești deși reversul nu este adevărat - iar 
-englezii privesc pe restul ca țărani care petrec
-prea mult timp cu oile lor.
+Irlandezii de Nord, Scoțienii și Galezii privesc Englezii ca deținători de sclavi coloniali - indiferent de faptul că toate trei au propriul parlament și sunt permise să voteze pentru legile Englezești deși reversul nu este adevărat - iar englezii privesc pe restul ca țărani care petrec prea mult timp cu oile lor.
 
-Cu toate acestea, de vreme ce cele patru țări constituente nu au
-propriile pașapoarte, toți sunt cetățeni Britanici, fie că le place sau nu.
+Cu toate acestea, de vreme ce cele patru țări constituente nu au propriile pașapoarte, toți sunt cetățeni Britanici, fie că le place sau nu.
 
-Cetățenii Britanici ai Regatului Unit - al cărui nume complet este
-Regatul Unit al Marii Britanii și Irlandei de Nord.
+Cetățenii Britanici ai Regatului Unit - al cărui nume complet este Regatul Unit al Marii Britanii și Irlandei de Nord.
 
 Deci, unde se ascunde Marea Britanie?
 
-Chiar aici: zona acoperită cu negru este Marea Britanie. Spre deosebire de
-Anglia, Scoția, Țara Galilor și Irlanda de Nord, Marea Britanie 
-este un termen geografic, nu unul politic.
+Chiar aici: zona acoperită cu negru este Marea Britanie. Spre deosebire de Anglia, Scoția, Țara Galilor și Irlanda de Nord, Marea Britanie  este un termen geografic, nu unul politic.
 
 Marea Britanie este cea mai mare insulă dintre Insulele Britanice.
 
-În Regatul Unit, termenul 'Marea Britanie' este adesea
-folosit pentru a referi la Anglia, Scoția și Țara Galilor,
-excluzând intenționat Irlanda de Nord.
+În Regatul Unit, termenul 'Marea Britanie' este adesea folosit pentru a referi la Anglia, Scoția și Țara Galilor, excluzând intenționat Irlanda de Nord.
 
-Aceasta este în mare parte, dar nu complet adevărat, deoarece toate cele trei
-țări constituente conțin insule care nu fac parte din Marea Britanie, cum ar fi
+Aceasta este în mare parte, dar nu complet adevărat, deoarece toate cele trei țări constituente conțin insule care nu fac parte din Marea Britanie, cum ar fi
 
-Insula Wight, Insulele Scilly și Lundy care fac parte din
-Anglia, insula Galeză Anglesey și insulele Scoțiene:
+Insula Wight, Insulele Scilly și Lundy care fac parte din Anglia, insula Galeză Anglesey și insulele Scoțiene:
 
 - Hebride
 - Shetland
@@ -78,95 +44,53 @@ Anglia, insula Galeză Anglesey și insulele Scoțiene:
 
 A doua insulă britanică ca mărime este Irlanda.
 
-Merită a fi menționat că Irlanda nu este o țară. La fel ca și Marea
-Britanie, este un termen geografic, nu politic.
+Merită a fi menționat că Irlanda nu este o țară. La fel ca și Marea Britanie, este un termen geografic, nu politic.
 
-Insula Irlandeză conține două țări, Irlanda 
-de Nord - pe care am discut-o deja - și Republica 
-Irlandeză.
+Insula Irlandeză conține două țări, Irlanda de Nord - pe care am discut-o deja - și Republica Irlandeză.
 
-Când cineva spune că sunt 'Irlandezi' se referă la 
-Republica Irlandeză care este o țară separată de 
-Regatul Unit.
+Când cineva spune că sunt 'Irlandezi' se referă la Republica Irlandeză care este o țară separată de Regatul Unit.
 
-Cu toate acestea, atât Republica Irlandeză cât și Regatul
-Unit sunt membrii ai Uniunii Europene deși 
-Angliei îi place adesea să pretindă că este o insulă in mijlocul
-Atlanticului, nu la 50 de km de coasta Franței. Dar aceasta este
-o poveste pentru altă dată.
+Cu toate acestea, atât Republica Irlandeză cât și Regatul Unit sunt membrii ai Uniunii Europene deși Angliei îi place adesea să pretindă că este o insulă in mijlocul Atlanticului, nu la 50 de km de coasta Franței. Dar aceasta este o poveste pentru altă dată.
 
 Pentru a rezuma:
 
-Cele mai mari două Insule Britanice sunt Irlanda și
-Marea Britanie. Irlanda conține două țări - Republica 
-Irlandeză si Irlanda de Nord, iar Marea Britanie (in mare parte)
-conține trei: Anglia, Scoția și Țara Galilor. Ultimele 
-trei, împreuna cu Irlanda de Nord formează Regatul
-Unit.
+Cele mai mari două Insule Britanice sunt Irlanda și Marea Britanie. Irlanda conține două țări - Republica Irlandeză si Irlanda de Nord, iar Marea Britanie (in mare parte) conține trei: Anglia, Scoția și Țara Galilor. Ultimele trei, împreuna cu Irlanda de Nord formează Regatul Unit.
 
 Asta este tot? ... Nu
 
-Încă sunt multe întrebări nerezolvate. Cum ar fi, de ce,
-atunci când călătorim în Canada găsim Monarhul Britanic pe
-bani?
+Încă sunt multe întrebări nerezolvate. Cum ar fi, de ce, atunci când călătorim în Canada găsim Monarhul Britanic pe bani?
 
 Pentru a putea răspunde, trebuie să vorbim despre Imperiu.
 
-Nu se poate să fi mers la școală în lumea vorbitoare de Engleză
-fără să fi învățat că Imperiul Britanic se întindea la un moment dat
-pe 1/4 din uscatul lumii și guverna 1/4 din
-oameni.
+Nu se poate să fi mers la școală în lumea vorbitoare de Engleză fără să fi învățat că Imperiul Britanic se întindea la un moment dat pe 1/4 din uscatul lumii și guverna 1/4 din oameni.
 
-Deși este ușor să ne amintim de părțile imperiului care s-au 
-separat violent...
+Deși este ușor să ne amintim de părțile imperiului care s-au separat violent...
 
-Adesea uităm cât de multe națiuni au căpătat independența
-prin diplomație, nu vărsare de sânge.
+Adesea uităm cât de multe națiuni au căpătat independența prin diplomație, nu vărsare de sânge.
 
-Aceste națiuni-aspirante au făcut o înțelegere cu imperiul
-prin care ele continuau să recunoască monarhia ca șeful 
-de stat în schimbul unui parlament local și autonom.
+Aceste națiuni-aspirante au făcut o înțelegere cu imperiul prin care ele continuau să recunoască monarhia ca șeful de stat în schimbul unui parlament local și autonom.
 
-Dar asta ridică o întrebare: sunt aceste țări încă parte 
-din Regatul Unit?
+Dar asta ridică o întrebare: sunt aceste țări încă parte din Regatul Unit?
 
-Ei bine, nu chiar, dar pentru a înțelege cum sunt conectate,
-trebuie să vorbim despre coroană.
+Ei bine, nu chiar, dar pentru a înțelege cum sunt conectate, trebuie să vorbim despre coroană.
 
-Nu coroana fizică care stă in spatele sticlei din Turnul 
-Londrei și câștigă pentru Regatul Unit milioane de lire de la turiști,
-ci coroana ca o complicată entitate legală, cele mai bine descrisă
-ca o corporație-de-o-persoană.
+Nu coroana fizică care stă in spatele sticlei din Turnul Londrei și câștigă pentru Regatul Unit milioane de lire de la turiști, ci coroana ca o complicată entitate legală, cele mai bine descrisă ca o corporație-de-o-persoană.
 
 Cine a creat această corporație?
 
 Dumnezeu.
 
-Conform tradiției Britanice toată puterea vine de la Dumnezeu și
-monarhul este încoronat într-o ceremonie Creștină.
+Conform tradiției Britanice toată puterea vine de la Dumnezeu și monarhul este încoronat într-o ceremonie Creștină.
 
-Însă Dumnezeu - nevrând să fie deranjat cu 
-micro-management - își deleagă convenient puterea către
-o entitate numită coroană. Deși aceasta obișnuia să fie coroana
-fizică din Turnul Londrei - a evoluat de-a lungul timpului într-o
-corporație legală care poate fi controlată doar the 
-monarhul conducător.
+Însă Dumnezeu - nevrând să fie deranjat cu micro-management - își deleagă convenient puterea către o entitate numită coroană. Deși aceasta obișnuia să fie coroana fizică din Turnul Londrei - a evoluat de-a lungul timpului într-o corporație legală care poate fi controlată doar the monarhul conducător.
 
-Toate legile din Regatul Unit își derivă dreptul de a exista
-de la coroană care la rând își derivă puterea de la Dumnezeu.
+Toate legile din Regatul Unit își derivă dreptul de a exista de la coroană care la rând își derivă puterea de la Dumnezeu.
 
-Este folositor să ne amintim că Regatul Unit este încă,
-teoretic, o teocrație cu monarhul conducător acționând 
-atât ca șeful statului cât și guvernatorul suprem al
-religiei oficiale: Anglicanismul.
+Este folositor să ne amintim că Regatul Unit este încă, teoretic, o teocrație cu monarhul conducător acționând atât ca șeful statului cât și guvernatorul suprem al religiei oficiale: Anglicanismul.
 
-Acestea sunt ciudățenile care apar când avem deaface cu 
-o monarhie veche the 1000 de ani.
+Acestea sunt ciudățenile care apar când avem deaface cu o monarhie veche the 1000 de ani.
 
-Înapoi la Canada și restul. Fostele colonii care au capătat
-independența prin diplomație și care continuă să 
-recunoască autoritatea coroanei sunt cunoscute ca și
-Comunitatea Națiunilor.
+Înapoi la Canada și restul. Fostele colonii care au capătat independența prin diplomație și care continuă să recunoască autoritatea coroanei sunt cunoscute ca și Comunitatea Națiunilor.
 
 Ele sunt, în ordine descrescătoare a populației:
 
@@ -186,18 +110,11 @@ Ele sunt, în ordine descrescătoare a populației:
 - Sfântul Cristofor și Nevis
 - Tuvalu
 
-Toate sunt națiuni independente dar încă recunosc monarhia
-ca șeful statului chiar dacă în practica are foarte puțină putere
-în interiorul granițelor lor.
+Toate sunt națiuni independente dar încă recunosc monarhia ca șeful statului chiar dacă în practica are foarte puțină putere în interiorul granițelor lor.
 
-Există înca trei alte entități care aparțin de coroană și
-anume Dependințele Coroanei.
+Există înca trei alte entități care aparțin de coroană și anume Dependințele Coroanei.
 
-Spre deosebire de Comunitatea Națiunilor, acestea nu sunt considerate
-state independente dar le este acordată autonomie locală de către
-coroană și cetățenie Britanică de către Regatul Unit - 
-deși Regatul Unit își rezervă dreptul de a suprascrie legile
-autorităților locale.
+Spre deosebire de Comunitatea Națiunilor, acestea nu sunt considerate state independente dar le este acordată autonomie locală de către coroană și cetățenie Britanică de către Regatul Unit - deși Regatul Unit își rezervă dreptul de a suprascrie legile autorităților locale.
 
 Dependințele Coroanei sunt:
 
@@ -207,28 +124,17 @@ Dependințele Coroanei sunt:
 
 Acum am terminat?
 
-Aproape, dar nu chiar. Încă sunt câteva socoteli 
-neîncheiate, cum ar fi acest loc:
+Aproape, dar nu chiar. Încă sunt câteva socoteli neîncheiate, cum ar fi acest loc:
 
-Micul oraș Gibraltar de pe coasta de sud a Spaniei
-faimoas pentru stânci, maimuțe și pentru a cauza tensiuni
-diplomatice între Regatul Unit și Spania.
+Micul oraș Gibraltar de pe coasta de sud a Spaniei faimoas pentru stânci, maimuțe și pentru a cauza tensiuni diplomatice între Regatul Unit și Spania.
 
-Dar ce zici despre Insulele Falkland? Care au cauzat atât de multă
-tensiune între Regatul Unit și Argentina încât
-au pornit la război pentru ele.
+Dar ce zici despre Insulele Falkland? Care au cauzat atât de multă tensiune între Regatul Unit și Argentina încât au pornit la război pentru ele.
 
-Aceste locuri aparțin în ultimul grup de Dependințe ale Coroanei
-cunoscute ca: Teritoriile Britanice de peste mări. Dar numele anterior -
-Coloniile Coroanei - le trădează originea.
+Aceste locuri aparțin în ultimul grup de Dependințe ale Coroanei cunoscute ca: Teritoriile Britanice de peste mări. Dar numele anterior - Coloniile Coroanei - le trădează originea.
 
 Ele sunt ultimele vestigii ale Imperiului Britanic.
 
-Spre deosebire de Comunitatea Națiunilor, ele nu au devenit 
-națiuni independente și continuă să se bazeze pe Regatul 
-Unit pentru asistentă militară și (câteodată) economică.
-La fel ca și cu Dependințele Coroanei, oricine născut între granițele lor
-este cetățean Britanic.
+Spre deosebire de Comunitatea Națiunilor, ele nu au devenit națiuni independente și continuă să se bazeze pe Regatul Unit pentru asistentă militară și (câteodată) economică. La fel ca și cu Dependințele Coroanei, oricine născut între granițele lor este cetățean Britanic.
 
 Coloniile Coroanei sunt, în ordine descrescătoare a populației:
 
@@ -249,12 +155,6 @@ Coloniile Coroanei sunt, în ordine descrescătoare a populației:
 - Zona Antarctică Britanică
 - Insulele Pitcairn
 
-Intr-un rezumat final, Regatul Unit este o țară situată
-în insulele britanice și este parte a Coroanei fiind
-controlată de monarhie.
+Intr-un rezumat final, Regatul Unit este o țară situată în insulele britanice și este parte a Coroanei fiind controlată de monarhie.
 
-De asemenea, parte a coroanei și a insulelor britanice sunt și 
-dependințele coroanei. Națiunile independente ale fostului imperiu
-care încă recunosc coroana formează Comunitatea Națiunilor
-iar rămășitele ne-independente ale fostului imperiu sunt 
-Teritoriile britanice de peste mări.
+De asemenea, parte a coroanei și a insulelor britanice sunt și dependințele coroanei. Națiunile independente ale fostului imperiu care încă recunosc coroana formează Comunitatea Națiunilor iar rămășitele ne-independente ale fostului imperiu sunt Teritoriile Britanice de peste mări.
